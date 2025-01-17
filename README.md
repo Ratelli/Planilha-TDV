@@ -15,4 +15,4 @@ Projeto com o objetivo de gerar uma planilha inteligente utilizando excel.
 
 - Roteiro baseado nas regras do TDV 2025
 
-<a href="https://github.com/Ratelli/prompts-recipe-to-create-a-ebook/blob/main/E-book%20Bootcamp%20DIO%20e%20CAIXA.pdf" title="View PDF now"> 📕Clique aqui para ler o e-book na íntegra.</a>
+<a href="https://github.com/Ratelli/Planilha-TDV/blob/main/Time%20de%20vendas%20(TDV%202025)%20-%20em%20constru%C3%A7%C3%A3o.xlsx" title="View xlsx now"> 📕Clique aqui para ver a planilha em construção.</a>
