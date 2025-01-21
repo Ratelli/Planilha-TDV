@@ -15,4 +15,4 @@ Projeto com o objetivo de gerar uma planilha inteligente utilizando excel.
 
 - Roteiro baseado nas regras do TDV 2025
 
-<a href="https://github.com/Ratelli/Planilha-TDV/blob/main/Time%20de%20vendas%20(TDV%202025)%20-%20em%20constru%C3%A7%C3%A3o.xlsx" title="View xlsx now"> 📕Clique aqui para ver a planilha em construção.</a>
+<a href="https://github.com/Ratelli/Planilha-TDV/blob/main/Time%20de%20vendas%20(TDV%202025).xlsx" title="View raw"> 📕Clique aqui para ver a planilha.</a>
